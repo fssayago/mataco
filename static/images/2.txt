@@ -1,2 +1,0 @@
-Flask_PostgreSQL_GUIAPP
-Es para borrar
